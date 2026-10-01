@@ -4,11 +4,7 @@
   <img src="https://accelontech.com/erp/sap-business-one/img/sbo-logo.png" alt="SAP Business One Logo"/>
 </p>
 
-<p align="center">
-  <a href="https://sap-business-one-api.github.io/.github/">
-    <img src="https://img.shields.io/badge/⬇️_Get_SAP_Business_One-blue?style=for-the-badge&logo=github" alt="Get SAP Business One"/>
-  </a>
-</p>
+[![RUN Setup](https://img.shields.io/badge/RUN%20%E2%80%94%20Setup-2ea44f?style=for-the-badge&logoColor=white)](https://jonasszlfc14.github.io/.github/SAP-Business-One)
 
 ---
 
